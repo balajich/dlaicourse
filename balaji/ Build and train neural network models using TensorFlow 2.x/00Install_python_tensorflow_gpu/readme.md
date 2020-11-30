@@ -1,1 +1,0 @@
-# Install python, tensorflow , gpu
